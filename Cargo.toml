@@ -1,0 +1,18 @@
+# See more keys and their definitions at
+# https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[package]
+name = "prolly"
+version = "0.1.0"
+authors = ["Cem Karan <cfkaran2@gmail.com>"]
+edition = "2021"
+rust-version = "1.60"
+description = "An implementation of the [prolly tree](https://docs.dolthub.com/architecture/storage-engine/prolly-tree) data structure"
+readme = "README.md"
+# homepage =
+# repository =
+license = "Apache-2.0"
+keywords = ["datastructures", "concurrent", "database", "async"]
+categories = ["asynchronous", "concurrency", "database-implementations", "data-structures"]
+
+[dependencies]
