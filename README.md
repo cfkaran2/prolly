@@ -1,3 +1,8 @@
+![Maintenance](https://img.shields.io/badge/Experimental-DANGER!-critical)
+
+**WARNING!** This is purely experimental code at this point! It doesn't work,
+and should **not** be used in your code!
+
 # Introduction
 
 This is an implementation of the
